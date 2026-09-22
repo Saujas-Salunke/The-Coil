@@ -1,0 +1,11 @@
+{
+  "name": "The Coil",
+  "short_name": "The Coil",
+  "description": "The Coil is a fictional/parody news publication built as a college SEO demonstration project.",
+  "start_url": "index.html",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#FDFCFA",
+  "theme_color": "#17171A",
+  "icons": []
+}

@@ -1,0 +1,10 @@
+# robots.txt for The Coil
+# Replace Saujas-Salunke with your actual GitHub username before deploying.
+#
+# This file intentionally allows crawling of all pages, CSS, JavaScript,
+# and images so that search engines can fully render and index the site.
+
+User-agent: *
+Allow: /
+
+Sitemap: https://Saujas-Salunke.github.io/the-coil/sitemap.xml
